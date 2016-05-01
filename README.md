@@ -1,3 +1,3 @@
 # hello-world
-Not what we have But what we enjoy, constitutes our abundance. 
+Not what we have but what we enjoy, constitutes our abundance. 
 -Epicurus
